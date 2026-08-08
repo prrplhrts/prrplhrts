@@ -20,3 +20,4 @@
 
 <p>I am currently a 4th year student at the Polytechnic University of the Philippines, dedicated to being a data scientist! </p>
 <p>I like to work on crafting impactful software solutions to everyday problems. My work blends creative problem solving with a passion for data science and software engineering, turning complex challenges into opportunities.  </p>
+<p>I also like to do cybersecurity challenges like capture the flag (CTF) for fun!</p>
